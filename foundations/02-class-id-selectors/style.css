@@ -1,23 +1,22 @@
 /* styles.css */
 
+/* Background and fonts for odd numbered rows */
 .odd {
     background-color: rgb(253,188,180);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-
+/* Font size for third row */
 .odd.three {
     font-size: 24px;
 }
 
-div {
-    font: "DejaVu Sans";
-}
-
+/* Modify second row */
 #two {
     color: blue;
     font-size: 36px;
 }
 
+/* Modify fourth row */
 #four {
     background-color: lightgreen;
     color: black;
